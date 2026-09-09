@@ -1,0 +1,23 @@
+
+Some CMD commands for  linux:
+1. vim - opens a file and allows its content to be edited.
+2. file - it identifies a file type.
+3. chmod - to change file permission.
+4. grep -  to  search using a specific keyword.
+5. ftp - used for file transfer.
+6. wget - download files from the web.
+7. passwd - changes users password.
+8. ping - tests connectivity to a host.
+10. join - joins  lines of two  texts on the same path.
+11. head - it outputs the first content in a  file.
+12. tail - it outputs the last part  in a file.
+13. reboot - to  reboot the system.
+14. history - shows previously entered commands.
+15. zip - to zip files.
+16. man -  displays the manual page for a specific command.
+17. ps -  displays information about the currnt running processes on the system.
+18. apt - it is a package manager.
+19. find - to search for files in a directory.
+20. ls - to list all the files and directories in the current directory. 
+
+
